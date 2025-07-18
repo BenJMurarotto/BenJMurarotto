@@ -8,7 +8,7 @@
 ## 🚀 Tech Stack
 **Languages:** Python, R, SQL, MatLab  
 **Libraries/Frameworks:** TensorFlow, Scikit-learn, Keras, PyTorch, Pandas, ggplot2  
-**Tools:** Jupyter, VSCode, Git, Docker, Conda,, Tableau  
+**Tools:** Jupyter, VSCode, Git, Conda, Tableau
 
 ---
 
