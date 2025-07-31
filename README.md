@@ -24,6 +24,7 @@
 - 🔬 [Energy Usage Prediction using Time Series](https://github.com/BenJMurarotto/time-series-forecasting-energy): LSTM and GRU-based forecasting of electricity usage.
 - 💳 [Machine Learning and Exploratory Analysis](https://github.com/BenJMurarotto/data-analysis): Regression and transformations / Generalised linear models / Tree-based methods and SVMs/ Non-parametric regression & more!
 - 🔢 [GWAS in Sheep](https://github.com/BenJMurarotto/sheep-gwas): Genome-wide association study with Manhattan and QQ plots in R.
+- [AI Agent Implementations in Python](): 
 
 ---
 
