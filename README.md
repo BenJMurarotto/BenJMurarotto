@@ -20,12 +20,12 @@
 
 ---
 
-## 🧠 Notable Projects
+## 🧠 Recent Projects
 - [Master's Capstone Project: Vision Transformer for Alzheimer's Disease detection](https://github.com/BenJMurarotto/deep-learning-alzheimers): Early stage preprocessing and testing.
 - 🔬 [Energy Usage Prediction using Time Series](https://github.com/BenJMurarotto/time-series-forecasting-energy): LSTM and GRU-based forecasting of electricity usage.
 - 💳 [Machine Learning and Exploratory Analysis](https://github.com/BenJMurarotto/data-analysis): Regression and transformations / Generalised linear models / Tree-based methods and SVMs/ Non-parametric regression & more!
 - 🔢 [GWAS in Sheep](https://github.com/BenJMurarotto/sheep-gwas): Genome-wide association study with Manhattan and QQ plots in R.
-- [AI Agent Implementations in Python](): 
+- [Suicide Detection Classifier](https://github.com/BenJMurarotto/suicide-detection-classifier): Created custom ANN and Bayes models in Pytorch to compare performance of text embedding types in classification.
 
 ---
 
