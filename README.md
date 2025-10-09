@@ -10,13 +10,6 @@
 **Libraries/Frameworks:** TensorFlow, Scikit-learn, Keras, PyTorch, Pandas, ggplot2  
 **Tools:** Jupyter, VSCode, Git, Conda, Tableau
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenJMurarotto&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenJMurarotto&layout=compact&theme=radical" width="400" />
-</p>
 
 ---
 
