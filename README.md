@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 Recent Projects
-- [Master's Capstone Project: Vision Transformer for Alzheimer's Disease detection](https://github.com/BenJMurarotto/deep-learning-alzheimers): Early stage preprocessing and testing.
+- 👨‍🎓 [Master's Capstone Project: Vision Transformer for Alzheimer's Disease detection](https://github.com/BenJMurarotto/deep-learning-alzheimers): Streamlit dashboard and wrapped ViT model for AD classification.
 - 🔬 [Energy Usage Prediction using Time Series](https://github.com/BenJMurarotto/time-series-forecasting-energy): LSTM and GRU-based forecasting of electricity usage.
 - 💳 [Machine Learning and Exploratory Analysis](https://github.com/BenJMurarotto/data-analysis): Regression and transformations / Generalised linear models / Tree-based methods and SVMs/ Non-parametric regression & more!
 - 🔢 [GWAS in Sheep](https://github.com/BenJMurarotto/sheep-gwas): Genome-wide association study with Manhattan and QQ plots in R.
