@@ -27,6 +27,6 @@
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/benmurarotto)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ben-murarotto-a9533222b/)  
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square)](mailto:bmurarotto@gmail.com)
 
