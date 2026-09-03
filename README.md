@@ -14,6 +14,7 @@
 ---
 
 ## 🧠 Recent Projects
+- 🎲 [D&D Spell Assist](https://github.com/BenJMurarotto/dnd_spell_assist): Mic-listening spell lookup pipeline — VAD, speech-to-text, and fuzzy matching against a local SRD spell dataset, displayed live for the DM.
 - 📦 [Amazon ML Price Challenge](https://github.com/BenJMurarotto/amazon_challenge): Developed a multimodal regressor on text and image data with embeddings to predict Amazon catalogue item prices.
 - 🦆 [Species Classification and Object Detection Model for Endangered New Zealand Shore Birds](https://github.com/BenJMurarotto/nzbirds_dl): Curated iNaturalist dataset with feature extraction on pretrained ResNet model.
 - 👨‍🎓 [Vision Transformer for Alzheimer's Disease detection](https://github.com/BenJMurarotto/deep-learning-alzheimers): Streamlit dashboard and wrapped ViT model for AD classification.
